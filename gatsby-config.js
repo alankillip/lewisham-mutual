@@ -2,28 +2,24 @@ const guid = process.env.NETLIFY_GOOGLE_ANALYTICS_ID;
 
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Serif',
-    description: 'my theme',
+    title: 'Lewisham Covid-19 Mutual Aid',
+    description: 'Help for people affected by Covid 19 in Lewisham',
     contact: {
       phone: 'XXX XXX XXX',
-      email: 'zerostaticthemes@gmail.com',
+      email: 'someone@someone.com',
     },
     menuLinks: [
       {
-        name: 'Services',
+        name: 'Home',
+        link: '/',
+      },
+      {
+        name: 'Resources',
         link: '/services',
       },
       {
-        name: 'Team',
-        link: '/team',
-      },
-      {
-        name: 'Testimonials',
+        name: 'Find A Group',
         link: '/testimonials',
-      },
-      {
-        name: 'Contact',
-        link: '/contact',
       },
     ],
   },

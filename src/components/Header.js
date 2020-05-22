@@ -24,16 +24,9 @@ class Header extends React.Component {
     return (
       <div className="header">
         <div className="container">
-          <div className="logo">
-            <Link to="/">
-              <img alt="Figurit Homepage" src={logo} />
-            </Link>
-          </div>
-          <div className="logo-mobile">
-            <Link to="/">
-              <img alt="Figurit Homepage" src={logoMobile} />
-            </Link>
-          </div>
+          <h3>
+            Lewisham Covid-19 Mutual Aid
+          </h3>
           <MenuMobile active={this.state.menuActive} />
           <Menu />
           <Hamburger toggleMenu={this.toggleMenu} />
