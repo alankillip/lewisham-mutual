@@ -19,7 +19,6 @@ exports.createPages = ({ graphql, actions }) => {
                     path
                     title
                     order
-                    date(formatString: "DD MMMM YYYY")
                   }
                   excerpt
                 }
@@ -28,6 +27,7 @@ exports.createPages = ({ graphql, actions }) => {
           }
         `,
       ).then((result) => {
+        console.log('result', result);
         result.data.resources.edges.forEach(({ node }) => {
           console.log('node', node.frontmatter.title);
           const component = path.resolve('src/templates/service.js');
