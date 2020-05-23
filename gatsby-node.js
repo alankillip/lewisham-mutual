@@ -8,9 +8,9 @@ exports.createPages = ({ graphql, actions }) => {
       graphql(
         `
           query {
-            services: allMarkdownRemark(
+            resources: allMarkdownRemark(
               filter: { fileAbsolutePath: { regex: "/resources/" } }
-              sort: { fields: [frontmatter___date], order: DESC }
+              sort: { fields: [frontmatter___order], order: DESC }
             ) {
               edges {
                 node {
@@ -18,38 +18,7 @@ exports.createPages = ({ graphql, actions }) => {
                   frontmatter {
                     path
                     title
-                    date(formatString: "DD MMMM YYYY")
-                  }
-                  excerpt
-                }
-              }
-            }
-            team: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/team/" } }
-              sort: { fields: [frontmatter___date], order: DESC }
-            ) {
-              edges {
-                node {
-                  id
-                  frontmatter {
-                    path
-                    title
-                    date(formatString: "DD MMMM YYYY")
-                  }
-                  excerpt
-                }
-              }
-            }
-            testimonials: allMarkdownRemark(
-              filter: { fileAbsolutePath: { regex: "/testimonials/" } }
-              sort: { fields: [frontmatter___date], order: DESC }
-            ) {
-              edges {
-                node {
-                  id
-                  frontmatter {
-                    path
-                    title
+                    order
                     date(formatString: "DD MMMM YYYY")
                   }
                   excerpt
@@ -59,28 +28,9 @@ exports.createPages = ({ graphql, actions }) => {
           }
         `,
       ).then((result) => {
-        result.data.services.edges.forEach(({ node }) => {
+        result.data.resources.edges.forEach(({ node }) => {
+          console.log('node', node.frontmatter.title);
           const component = path.resolve('src/templates/service.js');
-          createPage({
-            path: node.frontmatter.path,
-            component,
-            context: {
-              id: node.id,
-            },
-          });
-        });
-        result.data.team.edges.forEach(({ node }) => {
-          const component = path.resolve('src/templates/team.js');
-          createPage({
-            path: node.frontmatter.path,
-            component,
-            context: {
-              id: node.id,
-            },
-          });
-        });
-        result.data.testimonials.edges.forEach(({ node }) => {
-          const component = path.resolve('src/templates/testimonial.js');
           createPage({
             path: node.frontmatter.path,
             component,
