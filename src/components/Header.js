@@ -19,7 +19,7 @@ class Header extends React.Component {
 
   render() {
     return (
-      <div className="header">
+      <div className="header sticky-top">
         <div className="container">
           <h3>
             Lewisham Covid-19 Mutual Aid
