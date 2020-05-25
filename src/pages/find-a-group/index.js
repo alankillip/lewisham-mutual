@@ -9,11 +9,17 @@ const findAgroup = () => (
       <div className="container">
         <div className="row">
           <div className="col-12">
-            You can search by place name and post code here.
+            Search Local Groups:
+            <iframe src="https://www.google.com/maps/d/u/0/embed?mid=15COv-ATM1YFlhXhS6SaA3f5WmpSGuxRt" width="100%" height="800"/>
+          </div>
+        </div>
+        <div className="row">
+          <div className="col-12">
+            This is a wider searchable map of the whole world.
             <div>
               This map is from <a href="https://mutualaid.wiki">mutualaid.wiki</a>
             </div>
-            <div>We should synchronise our whatsapp data with them.</div>
+            <div>We could synchronise our whatsapp data with them.</div>
             <iframe
               width="100%"
               height="800"
