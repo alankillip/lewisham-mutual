@@ -21,6 +21,10 @@ module.exports = {
         name: "Find A Group",
         link: "/find-a-group",
       },
+      {
+        name: "Wellbeing Map",
+        link: "/wellbeing",
+      },
     ],
   },
   plugins: [
