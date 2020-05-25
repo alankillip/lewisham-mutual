@@ -4,4 +4,4 @@ title: 'Engagement'
 order: 7
 ---
 
-The content on this tab isn't so structured so it might be better not to populate the page automatically
+Data can be extracted from the spreadsheet every time the website is deployed

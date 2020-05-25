@@ -12,7 +12,5 @@ LEWISHAM WhatsApp coordination page
 
 
 
-_It might be to get everybody to register their group [here](https://mutualaid.wiki/) and then people can search in the 'find a group' section_
-
-We can still 'scrape' the information from the spreadsheet and display it here...
+[... we could synchronise the data from the whats app tab with [mutualaid.wiki](https://mutualaid.wiki/) and then people can search in the 'find a group' section] 
 
