@@ -13,11 +13,7 @@ const findAgroup = () => (
             <div>
               This map is from <a href="https://mutualaid.wiki">mutualaid.wiki</a>
             </div>
-            <div>We should synchronise our whatsapp data with them</div>
-            <div>
-              This will involve taking the whatsapp sheet out of the main sheet and rationalising
-              it.
-            </div>
+            <div>We should synchronise our whatsapp data with them.</div>
             <iframe
               width="100%"
               height="800"
