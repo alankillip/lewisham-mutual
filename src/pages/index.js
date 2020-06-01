@@ -1,9 +1,12 @@
 import React from 'react';
+import { graphql } from 'gatsby';
 import Helmet from 'react-helmet';
 import SEO from '../components/SEO';
 import Layout from '../layouts/index';
 
-const Home = () => {
+const Home = (props) => {
+  console.log('props', props);
+  const html = props.data.allMarkdownRemark.edges[0].node.html;
   return (
     <Layout bodyClass="page-home">
       <SEO title="Home"/>
@@ -17,7 +20,7 @@ const Home = () => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              [...content based on the 'start here' tab of the google sheet]
+              {html}
             </div>
           </div>
         </div>
@@ -25,5 +28,23 @@ const Home = () => {
     </Layout>
   );
 };
+
+export const query = graphql`
+  query {
+    allMarkdownRemark(
+      filter: { fileAbsolutePath: { regex: "/home/" } }
+    ) {
+      edges {
+        node {
+          html
+          frontmatter {
+            title
+          }
+          excerpt
+        }
+      }
+    }
+  }
+`
 
 export default Home;

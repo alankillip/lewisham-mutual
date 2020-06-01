@@ -1,4 +1,9 @@
-Hi! Thanks for joining the Lewisham COVID-19 Mutual Aid group. This spreadsheet has a LOT of resources, so please read this first to get the information you need!
+---
+path: '/home'
+title: 'Welcome'
+---
+
+Hi! Welcome to the Lewisham COVID-19 Mutual Aid website. Please read this page first before exploring.
 
 What is mutual aid? A voluntary reciprocal exchange of resources and services for mutual benefit. Based on non-hierarchical principles. We want to support each other and not wait for central government to get their act together.
 No one here is doing this for money, nor are we professionals or politicians. We're just concerned people who believe in solidarity and are doing something about it.
