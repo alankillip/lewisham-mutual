@@ -6,7 +6,8 @@ import Layout from '../layouts/index';
 
 const Home = (props) => {
   console.log('props', props);
-  const html = props.data.allMarkdownRemark.edges[0].node.html;
+  const content = props.data.allMarkdownRemark.edges[0].node;
+  const {html, title} = content;
   return (
     <Layout bodyClass="page-home">
       <SEO title="Home"/>
@@ -20,7 +21,8 @@ const Home = (props) => {
         <div className="container">
           <div className="row">
             <div className="col-12">
-              {html}
+              <h1 className="title">{title}</h1>
+              <div className="content" dangerouslySetInnerHTML={{ __html: html }} />
             </div>
           </div>
         </div>
