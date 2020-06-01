@@ -18,22 +18,12 @@
   }
   h1 {
     color: $primary;
-    font-size: 2.4rem;
+    font-size: 2.5rem;
     line-height: 1.2;
     font-family: $font-family-heading;
-    width: 70%;
-    @include media-breakpoint-up(sm) {
-      width: 70%;
-    }
-    @include media-breakpoint-up(md) {
-      font-size: 3rem;
-      width: 70%;
-    }
-    @include media-breakpoint-up(lg) {
-      font-size: 3rem;
-      width: 50%;
-    }
+    padding-bottom: 25px;
   }
+
   p {
     width: 80%;
     font-size: 1.1rem;
@@ -41,13 +31,13 @@
     line-height: 1.4;
     color: $secondary;
     @include media-breakpoint-up(sm) {
-      width: 70%;
+      width: 80%;
     }
     @include media-breakpoint-up(md) {
-      width: 60%;
+      width: 80%;
     }
     @include media-breakpoint-up(lg) {
-      width: 40%;
+      width: 80%;
     }
   }
 }
