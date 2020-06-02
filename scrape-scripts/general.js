@@ -6,9 +6,7 @@ const decant = entry => ({
   row: Number(entry.gs$cell.row),
 });
 
-const columnsIds = ['name', 'basedIn', 'whatDoYouDo', 'support', 'contactFromOrg', 'repName', 'repContact', 'link', 'otherInfo'];
-
-module.exports = (data) => {
+module.exports = (data, titleRow, startDataRow, columnsIds) => {
   const decanted = data.map(decant);
   const groups = [];
   const columns = [];
@@ -17,10 +15,10 @@ module.exports = (data) => {
       groups[cell.row] = {};
     }
     const { content, row, col } = cell;
-    if (row === 4) {
+    if (row === titleRow) {
       columns[col - 1] = content;
     }
-    if (row >= 5) {
+    if (row >= startDataRow) {
       const group = groups[row];
       group[columnsIds[col - 1]] = content;
     }
@@ -28,6 +26,6 @@ module.exports = (data) => {
   decanted.map(processCell);
   return {
     groups: groups.reduce(cleanse, []),
-    columns
+    columns,
   };
 };

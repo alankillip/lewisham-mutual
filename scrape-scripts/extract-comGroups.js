@@ -1,3 +1,5 @@
-const { extractComgroups } = require('./scrape');
+const { extractData } = require('./scrape');
 
-extractComgroups();
+const columnsIds = ['name', 'basedIn', 'whatDoYouDo', 'support', 'contactFromOrg', 'repName', 'repContact', 'link', 'otherInfo'];
+
+extractData('commGroups', 4, 5, columnsIds);
