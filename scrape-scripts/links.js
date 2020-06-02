@@ -1,4 +1,4 @@
-const cleanseNull = require('./cleanse-null');
+const cleanseNull = require('./cleanse');
 
 const decant = entry => ({
   content: entry.gs$cell.$t,

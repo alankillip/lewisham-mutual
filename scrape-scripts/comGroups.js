@@ -1,4 +1,4 @@
-const cleanseNull = require('./cleanse-null');
+const cleanse = require('./cleanse');
 
 const decant = entry => ({
   content: entry.gs$cell.$t,
@@ -6,43 +6,28 @@ const decant = entry => ({
   row: Number(entry.gs$cell.row),
 });
 
+const columnsIds = ['name', 'basedIn', 'whatDoYouDo', 'support', 'contactFromOrg', 'repName', 'repContact', 'link', 'otherInfo'];
+
 module.exports = (data) => {
   const decanted = data.map(decant);
   const groups = [];
+  const columns = [];
   const processCell = (cell) => {
     if (!groups[cell.row]) {
       groups[cell.row] = {};
     }
-    const group = groups[cell.row];
-    const { content } = cell;
-    if (cell.col === 1) {
-      group.name = content;
+    const { content, row, col } = cell;
+    if (row === 4) {
+      columns[col - 1] = content;
     }
-    if (cell.col === 2) {
-      group.basedIn = content;
-    }
-    if (cell.col === 3) {
-      group.whatDoYouDo = content;
-    }
-    if (cell.col === 4) {
-      group.support = content;
-    }
-    if (cell.col === 5) {
-      group.contactFromOrg = content;
-    }
-    if (cell.col === 6) {
-      group.repName = content;
-    }
-    if (cell.col === 7) {
-      group.repContact = content;
-    }
-    if (cell.col === 8) {
-      group.link = content;
-    }
-    if (cell.col === 9) {
-      group.otherInfo = content;
+    if (row >= 5) {
+      const group = groups[row];
+      group[columnsIds[col - 1]] = content;
     }
   };
   decanted.map(processCell);
-  return groups.reduce(cleanseNull, []);
+  return {
+    groups: groups.reduce(cleanse, []),
+    columns
+  };
 };
