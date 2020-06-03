@@ -1,13 +1,9 @@
 const cleanse = require('./cleanse');
-
-const decant = entry => ({
-  content: entry.gs$cell.$t,
-  col: Number(entry.gs$cell.col),
-  row: Number(entry.gs$cell.row),
-});
+const extractHyperLink = require('./extract-hyperlink');
+const createCell = require('./create-cell');
 
 module.exports = (data, titleRow, startDataRow, columnsIds) => {
-  const decanted = data.map(decant);
+  const cells = data.map(createCell);
   const groups = [];
   const columns = [];
   let currentType;
@@ -22,10 +18,13 @@ module.exports = (data, titleRow, startDataRow, columnsIds) => {
       if (col === 1) {
         currentType = content;
       }
+      if (col === 2) {
+        group.link = extractHyperLink(cell);
+      }
       group.type = currentType;
     }
   };
-  decanted.map(processCell);
+  cells.map(processCell);
   return {
     groups: groups.reduce(cleanse, []),
     columns,

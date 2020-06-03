@@ -1,6 +1,7 @@
 
 const { extractData } = require('./scrape');
 
-const columnsIds = ['type', 'link', 'phone', 'desc'];
+// Link is extracted from the name column
+const columnsIds = ['type', 'name', 'phone', 'desc'];
 
 extractData('psychHelp', 1, 4, columnsIds);

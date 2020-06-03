@@ -2,695 +2,816 @@
   "groups": [
     {
       "type": "Anger / Violence\r",
-      "link": "AVP Britain (Alternatives to Violence Project)",
+      "name": "AVP Britain (Alternatives to Violence Project)",
+      "link": "http://www.avpbritain.org.uk",
       "phone": "020 7324 4755",
       "desc": "Workshops for anyone who wants to find ways of resolving conflict without resorting to violence. Low cost places available."
     },
     {
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
-      "link": "Anxiety UK",
+      "name": "Anxiety UK",
+      "link": "www.anxietyuk.org.uk",
       "phone": "03444 775 774 / Text Service 07537 416 905",
       "desc": "Information and support for people with anxiety disorders including 1:1 therapy info."
     },
     {
-      "link": "Benzo Buddies",
+      "name": "Benzo Buddies",
+      "link": "www.benzobuddies.org",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "desc": "Benzodiazepine mutual support forum and information for those withdrawing and recovering from benzodiazepine use."
     },
     {
-      "link": "No More Panic",
+      "name": "No More Panic",
+      "link": "www.nomorepanic.co.uk",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "desc": "Information for sufferers and carers of people with Panic, Anxiety, Phobias and OCD, including Message Forum and Chat room."
     },
     {
-      "link": "No Panic",
+      "name": "No Panic",
+      "link": "www.nopanic.org.uk",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "phone": "0844 967 4848 (10am to 10pm every day)",
       "desc": "Information, advice & telephone mentoring for people (and carers) with Panic, Anxiety, Phobias, OCD and the effects of tranquiliser withdrawal. Plusaudio and phone (01952 680835) recording of the Breathing Technique."
     },
     {
-      "link": "OCD-UK",
+      "name": "OCD-UK",
+      "link": "www.ocduk.org",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "phone": "03332 127890",
       "desc": "Information and advice for people affected by OCD (and their family/friends), including advice line, blogs, publications, advice on seeking therapy and support group information."
     },
     {
-      "link": "OCD Action",
+      "name": "OCD Action",
+      "link": "www.ocdaction.org.uk/",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "phone": "0845 390 6232",
       "desc": "Support, information and advocacy to anyone affected by OCD, including local and online support groups."
     },
     {
-      "link": "Social Anxiety UK",
+      "name": "Social Anxiety UK",
+      "link": "www.social-anxiety.org.uk/",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "desc": "Volunteer led forum and chat rooms for those with social anxiety."
     },
     {
-      "link": "Triumph Over Phobia (TOP UK)",
+      "name": "Triumph Over Phobia (TOP UK)",
+      "link": "www.topuk.org",
       "type": "Anxiety (including OCD, Phobias, Panic, Social Anxiety)",
       "phone": "01225 571740 / Mobile 07763 826618",
       "desc": "Information and network of self-help groups for people with phobias, OCD and other related anxiety difficulties."
     },
     {
       "type": "Bereavement",
-      "link": "Child Death Helpline",
+      "name": "Child Death Helpline",
+      "link": "www.childdeathhelpline.org.uk ",
       "phone": "0800 282986 / 0808 8006019",
       "desc": "Helpline for anyone affected by the death of a child of any age. Advice, information, listening, befriending, referrals and face to face service by arrangement."
     },
     {
-      "link": "The Compassionate Friends",
+      "name": "The Compassionate Friends",
+      "link": "www.tcf.org.uk ",
       "type": "Bereavement",
       "phone": "0345 123 2304",
       "desc": "Helpline and support services for bereaved parents, siblings and grandparents after the death of a child of any age and any cause."
     },
     {
-      "link": "Cruse Bereavement Care Helpline",
+      "name": "Cruse Bereavement Care Helpline",
+      "link": "www.cruse.org.uk",
       "type": "Bereavement",
       "phone": "0808 808 1677",
       "desc": "One to one, group and email support for people at any time along the bereavement journey - however, wherever and whenever your loved one died."
     },
     {
-      "link": "Survivors of Bereavement by Suicide",
+      "name": "Survivors of Bereavement by Suicide",
+      "link": "www.uksobs.org/",
       "type": "Bereavement",
       "phone": "0300 111 5065",
       "desc": "Helpline and other support services run by a self-help group for people bereaved by suicide. Monthly group meetings in various locations."
     },
     {
       "type": "Bipolar Disorder",
-      "link": "Bipolar UK",
+      "name": "Bipolar UK",
+      "link": "www.bipolaruk.org.uk/",
       "phone": "0333 323 3880",
       "desc": "Information, on-line community, Peer Support line and a network of self help groups for people affected by bipolar disorder."
     },
     {
       "type": "Bullying",
-      "link": "Bullying UK",
+      "name": "Bullying UK",
+      "link": "www.bullying.co.uk",
       "phone": "0808 800 2222",
       "desc": "Part of Family Lives Project, providing forums, advice and information about staying safe and how to deal with cyber bullying."
     },
     {
-      "link": "Bully Online",
+      "name": "Bully Online",
+      "link": "www.bullyonline.org ",
       "type": "Bullying",
       "desc": "Information for anyone being bullied at work plus support and discussion forum."
     },
     {
       "type": "Counselling/Therapy Services",
-      "link": "Awareness Centre (Clapham, SW4 and Tooting, SW17)",
+      "name": "Awareness Centre (Clapham, SW4 and Tooting, SW17)",
+      "link": "www.theawarenesscentre.com",
       "phone": "020 8673 4545",
       "desc": "Low cost counselling and psychotherapy via self-referral, £20 a session for those on benefits / £35 for those on a low income."
     },
     {
-      "link": "British Association for Counselling & Psychotherapy (BACP)",
+      "name": "British Association for Counselling & Psychotherapy (BACP)",
+      "link": "www.bacp.co.uk",
       "type": "Counselling/Therapy Services",
       "phone": "01455 883 300",
       "desc": "Accreditation organisation for counselling and psychotherapy, with national directory of counsellors on their website, some of who offer low cost therapy."
     },
     {
-      "link": "Centre 70 Counselling (London, SE27)",
+      "name": "Centre 70 Counselling (London, SE27)",
+      "link": "www.counselling-centre70.org.uk/",
       "type": "Counselling/Therapy Services",
       "phone": "020 8670 2775",
       "desc": "Low cost counselling service dealing with a range of problems with online self-referral. Fees on a sliding scale, with some free places."
     },
     {
-      "link": "Guild of Psychotherapists Psychotherapy Clinic (London, SE1)",
+      "name": "Guild of Psychotherapists Psychotherapy Clinic (London, SE1)",
+      "link": "www.guildofpsychotherapists.org.uk",
       "type": "Counselling/Therapy Services",
       "phone": "0207 401 3260",
       "desc": "Low cost psychoanalytic psychotherapy service for people on income of less that £18,000, via self referral to reduced fee clinic."
     },
     {
-      "link": "Lewisham Psychological Therapies Service (IAPT)",
+      "name": "Lewisham Psychological Therapies Service (IAPT)",
+      "link": "https://slam-iapt.nhs.uk/lewisham/welcome-to-iapt-lewisham/",
       "type": "Counselling/Therapy Services",
       "phone": "020 3228 1350",
       "desc": "CBT for anxiety (panic, social anxiety OCD etc) and depression and counselling for other difficulties. Self, online and GP referral – free NHS service."
     },
     {
-      "link": "Multi Ethnic Service, Waterloo Community Counselling (London, SE1)",
+      "name": "Multi Ethnic Service, Waterloo Community Counselling (London, SE1)",
+      "link": "www.waterloocc.co.uk/MultiEthnicCounselling.aspx",
       "type": "Counselling/Therapy Services",
       "phone": "020 7928 3462",
       "desc": "Free service for those that require counselling in other languages, and to refugees and asylum seekers living in any South London borough. Self-referral via Lambeth IAPT calling 020 3228 6747."
     },
     {
-      "link": "Waterloo Community Counselling (London, SE1)",
+      "name": "Waterloo Community Counselling (London, SE1)",
+      "link": "www.waterloocc.co.uk/Home.aspx",
       "type": "Counselling/Therapy Services",
       "phone": "020 7928 3462",
       "desc": "Low cost counselling service for a range of problems via self-referral. Fees on a sliding scale."
     },
     {
-      "link": "Westminster Pastoral Foundation WPF (London, SE1)",
+      "name": "Westminster Pastoral Foundation WPF (London, SE1)",
+      "link": "www.wpf.org.uk",
       "type": "Counselling/Therapy Services",
       "phone": "020 7378 2000",
       "desc": "Individual CBT, psychodynamic, psychoanalytic and group therapy. Fees according to income bands (minimum £40 per session for long term therapy)."
     },
     {
       "type": "Depression",
-      "link": "APNI (Association for Post Natal Illness)",
+      "name": "APNI (Association for Post Natal Illness)",
+      "link": "www.apni.org/",
       "phone": "0207 386 0868",
       "desc": "Support to mothers suffering from post-natal illness via phone and webchat."
     },
     {
-      "link": "CALM (Campaign Against Living Miserably)",
+      "name": "CALM (Campaign Against Living Miserably)",
+      "link": "www.thecalmzone.net/",
       "type": "Depression",
       "phone": "0808 802 58 58",
       "desc": "Helpline, information and webchat for men at risk of suicide or wishing to talk."
     },
     {
-      "link": "Papyrus",
+      "name": "Papyrus",
+      "link": "www.papyrus-uk.org",
       "type": "Depression",
       "phone": "0800 068 41 41",
       "desc": "Website and helpline supporting people under 35 at risk of suicide."
     },
     {
       "type": "Dissociation",
-      "link": "First Person Plural",
+      "name": "First Person Plural",
+      "link": "www.firstpersonplural.org.uk",
       "phone": "01902 820082",
       "desc": "Information for people affected by complex Dissociative Identity Disorders (DID)."
     },
     {
-      "link": "PODS",
+      "name": "PODS",
+      "link": "www.pods-online.org.uk",
       "type": "Dissociation",
       "phone": "0800 1814420",
       "desc": "Helpline, information and support service, including Find a Therapist and peer support forum for people with DID."
     },
     {
       "type": "Domestic Violence",
-      "link": "Asha Project",
+      "name": "Asha Project",
+      "link": "www.ashaprojects.org.uk/",
       "phone": "020 8696 0023",
       "desc": "Information, advice and refuge for South Asian women (age 18+) and their children experiencing domestic violence."
     },
     {
-      "link": "Domestic Violence Helpline",
+      "name": "Domestic Violence Helpline",
+      "link": "www.nationaldomesticviolencehelpline.org.uk/",
       "type": "Domestic Violence",
       "phone": "0808 2000 247",
       "desc": "24 hour national domestic violence helpline, plus information and resources, run by Refuge and Women’s Aid for women experiencing domestic violence, their family, friends, colleagues and others calling on their behalf."
     },
     {
-      "link": "Domestic Violence Intervention Project (DVIP)",
+      "name": "Domestic Violence Intervention Project (DVIP)",
+      "link": "www.nationaldomesticviolencehelpline.org.uk/",
       "type": "Domestic Violence",
       "phone": "020 7633 9181",
       "desc": "For male perpetrators, their female partners and children. A range of services including violence prevention group programme with fees on a sliding scale or free via Social Services."
     },
     {
-      "link": "Everyman Project",
+      "name": "Everyman Project",
+      "link": "www.everymanproject.co.uk/",
       "type": "Domestic Violence",
       "phone": "020 7263 8884",
       "desc": "Arange of support services for men who want to stop behaving violently or abusively, and for the people affected by their violence or abuse. These include a focused brief counselling programme, a partner support programme, providing information and advice on the telephone."
     },
     {
-      "link": "Gaia Centre",
+      "name": "Gaia Centre",
+      "link": "www.refuge.org.uk/what-we-do/our-services/gaia-centre-lambeth/",
       "type": "Domestic Violence",
       "phone": "020 7733 8724",
       "desc": "Support services for those living in the London borough of Lambeth who are experiencing gender-based violence (Women aged 13 and over, and men aged 16 or over)."
     },
     {
-      "link": "Holes in the Wall (Parent Abuse)",
+      "name": "Holes in the Wall (Parent Abuse)",
+      "link": "www.holesinthewall.co.uk",
       "type": "Domestic Violence",
       "desc": "Blog site with information, event details and resources about parent abuse (child to parent violence)."
     },
     {
-      "link": "Men’s Advice Line",
+      "name": "Men’s Advice Line",
+      "link": "www.mensadviceline.org.uk",
       "type": "Domestic Violence",
       "phone": "0808 801 0327",
       "desc": "A confidential helpline and webchat for any man experiencing domestic violence and abuse from a partner (or ex-partner)."
     },
     {
-      "link": "Refuge",
+      "name": "Refuge",
+      "link": "www.refuge.org.uk/",
       "type": "Domestic Violence",
       "phone": "0808 200 247",
       "desc": "Refuges, independent advocacy, community outreach and culturally specific services"
     },
     {
-      "link": "Respect Helpline",
+      "name": "Respect Helpline",
+      "link": "www.respectphoneline.org.uk/",
       "type": "Domestic Violence",
       "phone": "0808 802 4040",
       "desc": "Helpline for anyone concerned about their own or someone else’s behaviour towards their partner (male, female, in heterosexual or same-sex relationships)."
     },
     {
-      "link": "Solace Women’s Aid",
+      "name": "Solace Women’s Aid",
+      "link": "www.solacewomensaid.org/",
       "type": "Domestic Violence",
       "phone": "0808 802 5565",
       "desc": "Advice, advocacy, counselling, children/young people and families service and refuges for women who have experienced domestic and sexual violence."
     },
     {
-      "link": "Women’s Aid",
+      "name": "Women’s Aid",
+      "link": "www.womensaid.org.uk/",
       "type": "Domestic Violence",
       "phone": "0808 2000 247 ",
       "desc": "Advice, contacts and Survivors Forum."
     },
     {
       "type": "Eating Disorders",
-      "link": "ABA (Anorexia and Bulimics Anonymous)",
+      "name": "ABA (Anorexia and Bulimics Anonymous)",
+      "link": "www.aba12steps.org/",
       "desc": "12 step programme for anorexia and bulimia. London meetings and virtual meetings."
     },
     {
-      "link": "ABC (Anorexia and Bulimia Care)",
+      "name": "ABC (Anorexia and Bulimia Care)",
+      "link": "www.anorexiabulimiacare.org.uk/",
       "type": "Eating Disorders",
       "phone": "03000 111213",
       "desc": "Care, emotional support and practical guidance for anyone affected by eating disorders, via helpline, befriending and family support."
     },
     {
-      "link": "BEAT",
+      "name": "BEAT",
+      "link": "www.b-eat.co.uk/",
       "type": "Eating Disorders",
       "phone": "0808 801 0677",
       "desc": "Information, helpline and range of online support groups."
     },
     {
       "type": "Family / Significant Others",
-      "link": "Adfam",
+      "name": "Adfam",
+      "link": "www.adfam.org.uk",
       "phone": "020 3817 9410 (not a Helpline)",
       "desc": "Information, including local support groups and helpline finder for anyone affected by someone else’s substance use."
     },
     {
-      "link": "Al-Anon / Al-Ateen",
+      "name": "Al-Anon / Al-Ateen",
+      "link": "www.al-anonuk.org.uk",
       "type": "Family / Significant Others",
       "phone": "0800 0086 811",
       "desc": "12 step Fellowship peer support groups for anyone whose life is, or has been, affected by someone else’s drinking."
     },
     {
-      "link": "Carers UK",
+      "name": "Carers UK",
+      "link": "www.carersuk.org/",
       "type": "Family / Significant Others",
       "phone": "0808 808 7777",
       "desc": "Advice, information and support for carers, including groups and online forum."
     },
     {
-      "link": "DrugFam",
+      "name": "DrugFam",
+      "link": "www.drugfam.co.uk/",
       "type": "Family / Significant Others",
       "phone": "0300 888 3853",
       "desc": "Helpline for any family member affected or bereaved by a loved one’s substance use."
     },
     {
-      "link": "Family Lives",
+      "name": "Family Lives",
+      "link": "www.familylives.org.uk",
       "type": "Family / Significant Others",
       "phone": "0808 800 2222",
       "desc": "Helpline, e-mail and online support for a range of family issues including parenting with an online parenting course. Plus support (helpline & leaflets) for prisoners and offenders families."
     },
     {
-      "link": "Gingerbread",
+      "name": "Gingerbread",
+      "link": "www.gingerbread.org.uk",
       "type": "Family / Significant Others",
       "phone": "0808 802 0925 ",
       "desc": "Support, advice, practical support and online forum for single parents."
     },
     {
-      "link": "Grandparents Plus",
+      "name": "Grandparents Plus",
+      "link": "www.grandparentsplus.org.uk/",
       "type": "Family / Significant Others",
       "phone": "0300 123 7015",
       "desc": "Advice, support and information for grandparents and the wider family in children’s lives – especially when they take on the caring role in difficult family circumstances or have lost contact."
     },
     {
-      "link": "NACOA (The National Association for the Children of Alcoholics)",
+      "name": "NACOA (The National Association for the Children of Alcoholics)",
+      "link": "www.nacoa.org.uk/",
       "type": "Family / Significant Others",
       "phone": "0800 358 3456",
       "desc": "Info, advice, support and message board for anyone affected by a parent’s drinking."
     },
     {
       "type": "Gambling",
-      "link": "Gamcare",
+      "name": "Gamcare",
+      "link": "www.gamcare.org.uk",
       "phone": "0808 8020 133",
       "desc": "Info, advice, support, counselling and chatrooms for problem gamblers and their families."
     },
     {
-      "link": "CNWL National Problem Gambling Clinic (London, SW6)",
+      "name": "CNWL National Problem Gambling Clinic (London, SW6)",
+      "link": "www.cnwl.nhs.uk/cnwl-national-problem-gambling-clinic/",
       "type": "Gambling",
       "phone": "020 7381 7722",
       "desc": "Specialist NHS clinic for problem gamblers, offering brief interventions, psychological interventions and aftercare, via self-referral for problem gamblers and their families."
     },
     {
-      "link": "Gamblers Anonymous",
+      "name": "Gamblers Anonymous",
+      "link": "www.gamblersanonymous.org.uk ",
       "type": "Gambling",
       "desc": "12 step Fellowship for problem gambling, forum, live chat, meetings, support and advice."
     },
     {
       "type": "Gender Identity",
-      "link": "Beaumont Society",
+      "name": "Beaumont Society",
+      "link": "www.beaumontsociety.org.uk/",
       "phone": "01582 412220",
       "desc": "Self-help organisation for the transgender community, their partners and families, including 24hr information line, online support group, magazine for members and social events."
     },
     {
-      "link": "GIRES (Gender Identity Research & Education Society)",
+      "name": "GIRES (Gender Identity Research & Education Society)",
+      "link": "www.gires.org.uk",
       "type": "Gender Identity",
       "phone": "01372 801554",
       "desc": "Directory of support groups for trans and gender non-conforming individuals."
     },
     {
       "type": "Hoarding",
-      "link": "Help for Hoarders",
+      "name": "Help for Hoarders",
+      "link": "www.helpforhoarders.co.uk/",
       "desc": "Information, support, advice, forum discussions and awareness raising for hoarders and their loved ones plus links to other support websites under ‘resources’ tab"
     },
     {
-      "link": "Hoarding UK",
+      "name": "Hoarding UK",
+      "link": "www.hoardinguk.org",
       "type": "Hoarding",
       "phone": "020 3239 1600",
       "desc": "Helpline, e-mail, advocacy, online and group support for those with hoarding problems."
     },
     {
       "type": "LGBT",
-      "link": "London Friend",
+      "name": "London Friend",
+      "link": "www.londonfriend.org.uk",
       "phone": "020 7833 1674",
       "desc": "Support for LGBT community, including counselling with sliding scale of fees, substance use (via Antidote) and domestic abuse plus support groups."
     },
     {
-      "link": "Pink Practice, Holborn WC1",
+      "name": "Pink Practice, Holborn WC1",
+      "link": "www.pinkpractice.co.uk",
       "type": "LGBT",
       "phone": "020 7060 4000",
       "desc": "Counselling and psychotherapy project for individuals, couples and families, with a sliding scale of fees from £70 per session."
     },
     {
-      "link": "Pink Therapy",
+      "name": "Pink Therapy",
+      "link": "www.pinktherapy.com",
       "type": "LGBT",
       "phone": "07971 205323",
       "desc": "Independent therapy organisation working with gender and sexual diversity clients, includes a ‘Find a Therapist’ service online."
     },
     {
       "type": "Mental Health (General Support)",
-      "link": "Action for Happiness",
+      "name": "Action for Happiness",
+      "link": "www.actionforhappiness.org",
       "desc": "A movement of people committed to building a happier and more caring society, includes information, groups, Happy Cafes and online courses."
     },
     {
-      "link": "Elefriends",
+      "name": "Elefriends",
+      "link": "www.elefriends.org.uk",
       "type": "Mental Health (General Support)",
       "desc": "A supportive online community where you can be yourself, listen, share and be heard, run by MIND, the Mental Health Charity."
     },
     {
-      "link": "The Listening Place",
+      "name": "The Listening Place",
+      "link": "www.listeningplace.org.uk",
       "type": "Mental Health (General Support)",
       "phone": "020 3906 7676",
       "desc": "Free face to face support in SW1 for those who feel suicidal. Contact via website for appointment."
     },
     {
-      "link": "Living Life to the Full – CBT Skills Self Help website",
+      "name": "Living Life to the Full – CBT Skills Self Help website",
+      "link": "www.llttf.com/",
       "type": "Mental Health (General Support)",
       "desc": "A CBT life skills course teaching key knowledge in how to tackle and respond to issues/demands that we meet in our everyday lives."
     },
     {
-      "link": "Living Well Network Hub (Lambeth)",
+      "name": "Living Well Network Hub (Lambeth)",
+      "link": "www.lambethcollaborative.org.uk/about/living-well-network",
       "type": "Mental Health (General Support)",
       "phone": "020 3691 5080",
       "desc": "Lambeth ‘front door’ to community based support for people’s mental health and wellbeing."
     },
     {
-      "link": "The Maytree (Finsbury Park, N4)",
+      "name": "The Maytree (Finsbury Park, N4)",
+      "link": "www.maytree.org.uk/",
       "type": "Mental Health (General Support)",
       "phone": "020 7263 7070",
       "desc": "Free respite centre with 4-5 night stay for those in suicidal crises."
     },
     {
-      "link": "MIND",
+      "name": "MIND",
+      "link": "https://blgmind.org.uk/lewisham/",
       "type": "Mental Health (General Support)",
       "desc": "Bromley, Lewisham & Greenwich Mind supports residents experiencing any kind of mental distress by providing information, advice, support including 1:1 psychotherapy and groups."
     },
     {
-      "link": "Mood Gym",
+      "name": "Mood Gym",
+      "link": "www.moodgym.com.au/",
       "type": "Mental Health (General Support)",
       "desc": "An interactive self-help book to learn and practise skills to manage symptoms of depression and anxiety."
     },
     {
-      "link": "Mood Juice",
+      "name": "Mood Juice",
+      "link": "www.moodjuice.scot.nhs.uk/",
       "type": "Mental Health (General Support)",
       "desc": "Internet based self-help resourcedesigned to help think about emotional problems and work towards solving them."
     },
     {
-      "link": "Rethink",
+      "name": "Rethink",
+      "link": "www.rethink.org/home",
       "type": "Mental Health (General Support)",
       "phone": "0300 5000 927",
       "desc": "Advice and information across a range of issues (eg. welfare, carers rights, criminal justice), services and groups for people experiencing all mental health difficulties and their family and friends."
     },
     {
-      "link": "Samaritans",
+      "name": "Samaritans",
+      "link": "www.samaritans.org",
       "type": "Mental Health (General Support)",
       "phone": "116 123",
       "desc": "Telephone to talk, round the clock,about whatever is getting to you."
     },
     {
-      "link": "Sane Line",
+      "name": "Sane Line",
+      "link": "www.sane.org.uk",
       "type": "Mental Health (General Support)",
       "phone": "0300 304 7000",
       "desc": "Emotional support and information to anyone affected by mental health problems through helpline (4.30 to 10.30pm), email services and online Support Forum."
     },
     {
-      "link": "SlaM 24 Hour Mental Health Support Line",
+      "name": "SlaM 24 Hour Mental Health Support Line",
+      "link": "",
       "type": "Mental Health (General Support)",
       "phone": "0800 731 2864"
     },
     {
-      "link": "Solidarity in a Crises",
+      "name": "Solidarity in a Crises",
+      "link": "www.certitude.org.uk/listening-empathy-care-concern-solidarity-crisis-2/",
       "type": "Mental Health (General Support)",
       "phone": "0300 123 1922 / Text 07595 864103",
       "desc": "Out-of-Hours Peer Support Service in Lambeth, providing crisis support over the phone or in person during the out of hours."
     },
     {
-      "link": "SLaM Recovery College",
+      "name": "SLaM Recovery College",
+      "link": "www.slamrecoverycollege.co.uk",
       "type": "Mental Health (General Support)",
       "phone": "020 3228 3643",
       "desc": "Free workshops and courses to support living a meaningful and satisfying life for people who use SLaM services and those who support them."
     },
     {
-      "link": "SupportLine",
+      "name": "SupportLine",
+      "link": "www.supportline.org.uk/index.php",
       "type": "Mental Health (General Support)",
       "phone": "01708 765200",
       "desc": "A confidential telephone helpline offering emotional support to any individual on any issue. The Helpline is primarily a preventative service and aims to support people before they reach the point of crisis. Particularly aimed at those who are socially isolated, vulnerable, at risk groups and victims of any form of abuse."
     },
     {
-      "link": "Wheel of Well-Being",
+      "name": "Wheel of Well-Being",
+      "link": "www.wheelofwellbeing.org",
       "type": "Mental Health (General Support)",
       "desc": "SLaM led web initiative to improve individual and community wellbeing with lots of tips and ideas in relation to: body, mind, spirit, people, place and planet."
     },
     {
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
-      "link": "AA Alcoholics Anonymous",
+      "name": "AA Alcoholics Anonymous",
+      "link": "www.alcoholics-anonymous.org.uk/",
       "phone": "0800 9177 650/ 02074070700",
       "desc": "12 step mutual aid groups for alcohol problems."
     },
     {
-      "link": "CA Cocaine Anonymous",
+      "name": "CA Cocaine Anonymous",
+      "link": "www.cocaineanonymous.org.uk/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "phone": "0800 612 0225",
       "desc": "12 step mutual aid groups for cocaine problems."
     },
     {
-      "link": "Crystal Meth Anonymous",
+      "name": "Crystal Meth Anonymous",
+      "link": "www.crystalmeth.org/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "desc": "12 step mutual aid for crystal meth problems."
     },
     {
-      "link": "Dual Diagnosis Anonymous",
+      "name": "Dual Diagnosis Anonymous",
+      "link": "www.ddauk.org/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "phone": "07702 510110",
       "desc": "12 step mutual aid groups for people with substance use and mental health problems."
     },
     {
-      "link": "MA Marijuana Anonymous",
+      "name": "MA Marijuana Anonymous",
+      "link": "www.marijuana-anonymous.org.uk/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "phone": "0300 124 0373",
       "desc": "12 step mutual aid groups for marijuana problems."
     },
     {
-      "link": "NA Narcotics Anonymous",
+      "name": "NA Narcotics Anonymous",
+      "link": "www.ukna.org/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "phone": "0300 999 1212",
       "desc": "12 step mutual aid groups for drug problems"
     },
     {
-      "link": "SMART Recovery",
+      "name": "SMART Recovery",
+      "link": "www.smartrecovery.org.uk/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "phone": "0330 053 6022",
       "desc": "Meetings and online forum for people with addictive behaviours and family/friends service"
     },
     {
-      "link": "Soberistas",
+      "name": "Soberistas",
+      "link": "www.soberistas.com/",
       "type": "Mutual Aid Groups – Alcohol/Drug Problems",
       "desc": "Online community of women helping each other to live an alcohol free life. Create a profile for free or pay membership, around £3 a month to get full access to other resources online."
     },
     {
       "type": "Personality Disorders",
-      "link": "BPD World",
+      "name": "BPD World",
+      "link": "www.bpdworld.org ",
       "desc": "Information, advice, community forums, online and support worker service for anyone with a personality disorder, family and friends."
     },
     {
       "type": "Pregnancy",
-      "link": "BPAS British Pregnancy Advisory Service",
+      "name": "BPAS British Pregnancy Advisory Service",
+      "link": "www.bpas.org ",
       "phone": "03457 304030",
       "desc": "Helpline support for reproductive choice by providing services to prevent or end unwanted pregnancy with contraception or abortion. Puts people in contact with their nearest consultation centre."
     },
     {
-      "link": "Marie Stopes International",
+      "name": "Marie Stopes International",
+      "link": "www.mariestopes.org.uk ",
       "type": "Pregnancy",
       "phone": "0345 300 8090",
       "desc": "Abortion, vasectomy and counselling services."
     },
     {
-      "link": "Miscarriage Association",
+      "name": "Miscarriage Association",
+      "link": "www.miscarriageassociation.org.uk ",
       "type": "Pregnancy",
       "phone": "01924 200799",
       "desc": "Information, online and group support for people affected by the loss of a baby in pregnancy."
     },
     {
-      "link": "National Childbirth Trust (NCT)",
+      "name": "National Childbirth Trust (NCT)",
+      "link": " www.nct.org.uk",
       "type": "Pregnancy",
       "phone": "0300 330 0700",
       "desc": "Information and support in pregnancy, childbirth and early parenthood, plus support services in local area."
     },
     {
       "type": "Relationships",
-      "link": "Albany Trust",
+      "name": "Albany Trust",
+      "link": "www.albanytrust.org/",
       "phone": "020 8767 1827",
       "desc": "Provides low cost therapy (sliding scale from £10) for LGBT individuals and couples around relationships."
     },
     {
-      "link": "Institute of Family Therapy (London based)",
+      "name": "Institute of Family Therapy (London based)",
+      "link": "www.instituteoffamilytherapy.org.uk ",
       "type": "Relationships",
       "phone": "020 7391 9150",
       "desc": "Provides couple and family therapy service for those who are finding relationships problematic. Sliding scale of fees.  Also family mediation service for couples who are separating or divorcing."
     },
     {
-      "link": "Relate",
+      "name": "Relate",
+      "link": "www.relate.org.uk/",
       "type": "Relationships",
       "desc": "Relate offers advice, relationship counselling, sex therapy, workshops, mediation, consultations and support face-to-face, by phone and through this website."
     },
     {
       "type": "Self Compassion",
-      "link": "Free Mindfulness Project",
+      "name": "Free Mindfulness Project",
+      "link": "www.freemindfulness.org/home",
       "desc": "Free guided mindfulness meditations to download and information about apps."
     },
     {
-      "link": "Self Compassion",
+      "name": "Self Compassion",
+      "link": "www.self-compassion.org",
       "type": "Self Compassion",
       "desc": "Website with information, resources, practices and research relating to self-compassion."
     },
     {
       "type": "Self-Harm",
-      "link": "Lifesigns",
+      "name": "Lifesigns",
+      "link": "www.lifesigns.org.uk",
       "desc": "User led organisation providing information, alternative coping ideas, online support and forum for people affected by self-injury including family and friends."
     },
     {
-      "link": "National Self Harm Network",
+      "name": "National Self Harm Network",
+      "link": "www.nshn.co.uk",
       "type": "Self-Harm",
       "desc": "24 hour online forum for people who self-injure, as well as their family and friends."
     },
     {
-      "link": "Recover Your Life",
+      "name": "Recover Your Life",
+      "link": "www.recoveryourlife.com/",
       "type": "Self-Harm",
       "desc": "Information, advice and 24 hour online support community for people who self-harm."
     },
     {
-      "link": "Scar Tissue",
+      "name": "Scar Tissue",
+      "link": "www.scar-tissue.net",
       "type": "Self-Harm",
       "desc": "Fact sheet, resources and online forums for people who self-harm."
     },
     {
-      "link": "Self Injury Support",
+      "name": "Self Injury Support",
+      "link": "www.selfinjurysupport.org.uk",
       "type": "Self-Harm",
       "desc": "List of national support groups, information and self-help ideas plus Women’s Self Injury Helpline 0808 800 8088 (not 24 hr) and text and email support 07537 432444 (not 24 hr)"
     },
     {
       "type": "Sexual Abuse / Sexual Assault",
-      "link": "Dabs Pathfinder Service",
+      "name": "Dabs Pathfinder Service",
+      "link": "www.dabs.uk.com/pathfinder",
       "phone": "07854 653118 - 24 hour Helpline ",
       "desc": "A signposting service that provides free support, information and in house counselling to anyone regarding issues to do with childhood abuse, incest and sexual violence."
     },
     {
-      "link": "The Havens (nearest Camberwell)",
+      "name": "The Havens (nearest Camberwell)",
+      "link": "www.thehavens.org.uk ",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "020 3299 6900 for urgent advice/support if recently assaulted",
       "desc": "For anyone who has been raped or sexually assaulted (women, men, children). Trained, experienced professionals give medical help and advice, counselling, practical emotional support, help with deciding whether to report crime to the Police, advice relating to pregnancy, sexually transmitted disease."
     },
     {
-      "link": "MOSAC",
+      "name": "MOSAC",
+      "link": "www.mosac.org.uk/",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "0800 980 1958",
       "desc": "Support for all non-abusing parents and carers whose children have been sexually abused including helpline, advice and advocacy. Interpretation available."
     },
     {
-      "link": "NAPAC",
+      "name": "NAPAC",
+      "link": "www.napac.org.uk",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "0808 801 0331",
       "desc": "National freephone support line for adults who have suffered any type of abuse in childhood. Plus local support group information and free legal advice."
     },
     {
-      "link": "One in Four (London, SE6)",
+      "name": "One in Four (London, SE6)",
+      "link": "www.oneinfour.org.uk/",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "020 8697 2112",
       "desc": "Counselling (from £16 for those receiving benefits), advocacy, groups, workshops and self-care (useful resources on website) for men and women who have experienced childhood sexual abuse and trauma."
     },
     {
-      "link": "Rape Crisis South London",
+      "name": "Rape Crisis South London",
+      "link": "www.rasasc.org.uk/",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "0808 802 9999 National Freephone helpline ",
       "desc": "Comprehensive service for female survivors of sexual violence living anywhere in South London including 1:1 counselling (0208 683 3311) and group therapy (contribution as able)."
     },
     {
-      "link": "Survivors UK",
+      "name": "Survivors UK",
+      "link": "www.survivorsuk.org/",
       "type": "Sexual Abuse / Sexual Assault",
       "phone": "020 3598 3898",
       "desc": "1:1 web or SMS or WhatsApp chat and counselling for men who have been raped or sexually abused. Support for those who have (or are considering) reporting to the police for emotional support, health, legal process and safety advice."
     },
     {
       "type": "Socialising",
-      "link": "Connect& Do",
+      "name": "Connect& Do",
+      "link": "www.connectanddo.org",
       "desc": "Social networking site to help build friends around shared interests in your local area."
     },
     {
-      "link": "Meet Ups",
+      "name": "Meet Ups",
+      "link": "www.meetup.com/cities/gb/17/london",
       "type": "Socialising",
       "desc": "Special interest and support groups in London."
     },
     {
       "type": "Stalking\r",
-      "link": "The Suzy Lamplugh Trust",
+      "name": "The Suzy Lamplugh Trust",
+      "link": "www.suzylamplugh.org ",
       "phone": "0808 802 0300",
       "desc": "The Helpline provides practical advice and information to anyone who is currently or previously been affected by harassment or stalking."
     },
     {
       "type": "Trauma",
-      "link": "Combat Stress",
+      "name": "Combat Stress",
+      "link": "www.combatstress.org.uk",
       "phone": "0800 138 1619 - 24 Hour Helpline / Text 07537 404 719",
       "desc": "Helpline, free treatment and support for Veterans with mental health difficulties and their families."
     },
     {
-      "link": "PTSD Resolution",
+      "name": "PTSD Resolution",
+      "link": "www.ptsdresolution.org",
       "type": "Trauma",
       "phone": "0300 302 0551",
       "desc": "Support to Veterans who have PTSD and their families."
     },
     {
       "type": "Victim Support",
-      "link": "Victim Support",
+      "name": "Victim Support",
+      "link": "www.victimsupport.org.uk",
       "desc": "Information, support, understanding and forum for people who hear voices and those that support them, with a Find A Group service."
     },
     {
       "type": "Welfare",
-      "link": "Centre 70, London SE27",
+      "name": "Centre 70, London SE27",
+      "link": "www.centre70.org.uk/",
       "phone": "020 8670 0070 ",
       "desc": "Free, confidential, independent, impartial advice (welfare benefits, housing, debt, consumer law, employment, utilities, general)by way of appointments, home visits and outreach."
     },
     {
-      "link": "Turn 2 Us",
+      "name": "Turn 2 Us",
+      "link": "www.turn2us.org.uk",
       "type": "Welfare",
       "desc": "Free service that helps people in financial need to access welfare benefits, charitable grants and other financial help – online, by phone and face to face. "
     },
     {
       "type": "Women’s Services",
-      "link": "The Beth Centre",
+      "name": "The Beth Centre",
+      "link": "www.womeninprison.org.uk/services/in-the-community.php?s=1970-01-01-the-beth-centre",
       "phone": "0203 869 2170",
       "desc": "Supporting women who are at risk of or have been touched by the criminal justice system. Safe space with holistic one to one and group support around housing, welfare, education, employment, finances, substance misuse, health, parenting, court, leaving prison, exiting prostitution and domestic abuse."
     },
     {
-      "link": "Hillcroft College (Surbiton, Surrey)",
+      "name": "Hillcroft College (Surbiton, Surrey)",
+      "link": "www.rhacc.ac.uk/schools/hillcroft-women-only",
       "type": "Women’s Services",
       "phone": "020 8399 2688",
       "desc": "National residential college for women with free courses for those on benefits."
     },
     {
       "type": "Young People’s Support",
-      "link": "Faces in Focus (London, SE1)",
+      "name": "Faces in Focus (London, SE1)",
+      "link": "www.facesinfocus.org.uk/",
       "phone": "020 7403 2444",
       "desc": "Low cost counselling service for young people age 11-25 for around £10 per session."
     },
     {
-      "link": "The Mix",
+      "name": "The Mix",
+      "link": "www.themix.org.uk",
       "type": "Young People’s Support",
       "phone": "0808 808 4994",
       "desc": "Information and support (Helpline and 1:2:1 Chat, group chat, counseling and Apps) across a range of issues: relationships, mental health, substance misuse, physical health, housing, money etc. for 13-25 year olds."
     },
     {
-      "link": "The Well Centre (London, SE16)",
+      "name": "The Well Centre (London, SE16)",
+      "link": "www.thewellcentre.org/",
       "type": "Young People’s Support",
       "phone": "020 8473 1581 / SMS: 07797 805819",
       "desc": "Youth health centre (for ages 13-20) where you can see a youth worker, counsellor or doctor to discuss any health concerns or worries in a safe and confidential space."

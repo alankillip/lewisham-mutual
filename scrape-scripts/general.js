@@ -1,13 +1,8 @@
 const cleanse = require('./cleanse');
-
-const decant = entry => ({
-  content: entry.gs$cell.$t,
-  col: Number(entry.gs$cell.col),
-  row: Number(entry.gs$cell.row),
-});
+const createCell = require('./create-cell');
 
 module.exports = (data, titleRow, startDataRow, columnsIds) => {
-  const decanted = data.map(decant);
+  const cells = data.map(createCell);
   const groups = [];
   const columns = [];
   const processCell = (cell) => {
@@ -23,7 +18,7 @@ module.exports = (data, titleRow, startDataRow, columnsIds) => {
       group[columnsIds[col - 1]] = content;
     }
   };
-  decanted.map(processCell);
+  cells.map(processCell);
   return {
     groups: groups.reduce(cleanse, []),
     columns,
